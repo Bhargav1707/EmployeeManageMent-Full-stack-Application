@@ -1,0 +1,15 @@
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+ color: aliceblue;
+}
+/*background-image {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSuxkJG0CBGfzjamdXY_1H_rG_d7nuTmrCQtpazSvQP10omDt63qcJ_MlW6wJd2rFmlM&usqp=CAU');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh; /* or set an appropriate height */
+
